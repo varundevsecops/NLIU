@@ -7,8 +7,7 @@ using System.Web.UI.WebControls;
 using System.Web.Configuration;
 using System.Data;
 using System.Data.SqlClient;
-using System.Web.Http;
-using System.Web.WebPages;
+
 
 public partial class Welcome : System.Web.UI.Page
 {
